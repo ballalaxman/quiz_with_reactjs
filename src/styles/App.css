@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+.intro--page {
+  position: relative;
+  width: 750px;
+  height: 750px;
+  background-color: #f5f7fb;
+  margin: auto;
+  border-radius: 5px;
+  padding: 5px;
+}
+.header {
+  position: absolute;
+  width: 412px;
+  height: 70px;
+  left: 170px;
+  top: 300px;
+  text-align: center;
+}
+.header h1 {
+  font-family: Karla;
+  font-size: 31px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  margin: 3px;
+}
+.header p {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #293264;
+  margin: 0px;
+}
+.start--quiz {
+  position: absolute;
+  width: 193px;
+  height: 52px;
+  left: 280px;
+  top: 420px;
+  background-color: #4d5b9e;
+  color: white;
+  border-radius: 15px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 16px;
+  border-color: white;
+}
